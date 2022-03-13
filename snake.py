@@ -1,11 +1,7 @@
-from email import header
 from random import randint, choice
 
+
 import pygame
-
-
-pygame.init()
-
 
 
 class snake:
